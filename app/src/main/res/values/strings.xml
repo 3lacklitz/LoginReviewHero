@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LoginReviewHero</string>
+    <string name="txt_comment">Welcome to my app...</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_login">Log In</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_confirm_password">Confirm Password</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_tel">Tel</string>
+    <string name="txt_mail">E-Mail</string>
+    <string name="txt_img">Image Url</string>
+    <string name="btn_question">Already a member? Login</string>
+    <string name="btn_create">Create Account</string>
+    <string name="txt_show_name">NAME : </string>
+    <string name="txt_show_mail">E-MAIL : </string>
+    <string name="txt_show_tel">TEL : </string>
+    <string name="txt_logout">Log Out</string>
+    <string name="txt_ok">OK</string>
+    <string name="txt_edit">Edit</string>
+    <string name="txt_cancel">Cancel</string>
+
+
+</resources>

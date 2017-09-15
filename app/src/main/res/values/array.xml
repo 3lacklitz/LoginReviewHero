@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="image_slide">
+        <item>@drawable/bg_hero1</item>
+        <item>@drawable/bg_hero2</item>
+        <item>@drawable/bg_hero3</item>
+    </integer-array>
+</resources>
